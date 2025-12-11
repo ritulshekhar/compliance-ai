@@ -81,21 +81,6 @@ Visualization	Plotly
 Reporting	XlsxWriter
 Environment	python-dotenv
 
-Project Structure
-ai-compliance-checker/
-├── app.py                      # Main Streamlit app
-├── compliance_checker.py       # Core compliance logic
-├── compliance_frameworks.py    # Framework rules and keyword patterns
-├── document_processor.py       # PDF, DOCX, TXT parsing
-├── pii_detector.py             # PII extraction modules
-├── report_generator.py         # Report export utilities
-├── utils.py                    # Helper functions
-├── requirements.txt            # Dependencies
-├── .streamlit/
-│   └── config.toml             # App UI configuration
-├── README.md                   # Documentation
-└── .gitignore
-
 Installation
 Prerequisites
 
